@@ -1,0 +1,2 @@
+[200~Region:  AP-Singapore   Bucket Name: hw-User-defined (Note: The bucket name must start with hw-.)   Data Redundancy Policy: Multi-AZ storage   Default Storage Class: Standard   Bucket Policy: Private
+Region:  AP-Singapore   Bucket Name: hw-User-defined (Note: The bucket name must start with hw-.)   Data Redundancy Policy: Multi-AZ storage   Default Storage Class: Standard   Bucket Policy: Private
